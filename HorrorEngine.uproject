@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.3",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "DialogueTree",
+			"Enabled": true,
+			"MarketplaceURL": "https://com.epicgames.launcher://ue/marketplace/product/af018f2268eb426bad40d8b70e255505/"
+		}
+	]
 }
